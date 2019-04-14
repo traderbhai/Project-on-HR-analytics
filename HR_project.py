@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  4 16:03:28 2019
 
-@author: YASH SAINI
-"""
 ''' This project is based on using various ensemble learning techniques
     on a given dataset of HR analytics'''
 
